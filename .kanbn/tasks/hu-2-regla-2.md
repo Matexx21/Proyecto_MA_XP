@@ -1,7 +1,7 @@
 ---
 created: 2024-01-07T10:41:54.000Z
 updated: 2024-01-07T10:41:54.000Z
-assigned: Mateo Dávalos
+assigned: Brittany y Mateo Dávalos
 progress: 0
 tags: []
 completed: 2024-01-08T08:14:54.000Z

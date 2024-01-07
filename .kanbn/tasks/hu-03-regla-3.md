@@ -1,32 +1,29 @@
 ---
-created: 2024-01-07T10:52:54.000Z
-updated: 2024-01-07T10:52:54.000Z
-assigned: Mateo Dávalos
+created: 2024-01-07T12:10:54.000Z
+updated: 2024-01-07T12:10:54.000Z
+assigned: Brittany y Mateo Dávalos
 progress: 0
 tags: []
-completed: 2024-01-08T08:14:54.000Z
+completed: 2024-01-08T09:14:54.000Z
 ---
 
-# HU-3: Regla 3
+# HU-03: Regla 3
 
-Descripción:
-
-Los íconos de búsqueda deben ser diferenciables del resto de la interfaz, también el idioma en que se presenta cada traducción debe ser diferenciable del resto, mientras que la interfaz no debe tener superposiciones de imágenes o video.
+Descripción: En el caso de que no encuentre la Asana que eestoy buscando al momento de finalizar mi búsqueda debe reflejarse un mensaje en pantalla que indique la no disponibilidad del mismo.
 
 **Historia Usuario:** 
 
-Como **usuario** del programa de escritorio, **quiero** que el software tenga una interfaz de usuario intuitiva y fácil de usar, para que pueda encontrar y visualizar asanas de manera eficiente.
-
- **Criterios de Aceptación:**
+Como **usuario** del programa de escritorio, **quiero** que el software maneje eficientemente los errores, en particular cuando no se encuentra la asana que estoy buscando, para que pueda tener una experiencia de usuario fluida y sin interrupciones.
 
 
- - Los usuarios deben poder buscar asanas utilizando un cuadro de búsqueda o un menú desplegable.
-- Las asanas seleccionadas deben visualizarse claramente en la pantalla.
- - El software debe tener un diseño de interfaz de usuario limpio y fácil de navegar. 
+ **Criterios de Aceptación:** 
+
+ 1. Cuando busco una asana que no existe en la base de datos, el software debe mostrar un mensaje de error claro y útil, indicando que la asana buscada no se encontró.
+ 2. El mensaje de error debe ser presentado de una manera que sea fácil de entender y que no interrumpa mi flujo de trabajo.
+ 3. El software debe tener la capacidad de manejar múltiples errores a la vez, es decir, si busco varias asanas que no existen, cada una de ellas debe ser manejada individualmente y se deben mostrar los mensajes de error correspondientes. 
 
 ## Comments
 
 - author: José
-- date: 2024-01-07T10:52:54.000Z
+- date: 2024-01-07T12:10:54.000Z
   
-
