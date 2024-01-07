@@ -9,13 +9,13 @@ completed: 2024-01-08T00:26:54.000Z
 
 # HU-01: Regla 1
 
-Descripción: Si introduzco varias asanas estas deben concatenarse para dar la traducción completa.
+Descripción: Si introduzco una oración en sánscrito, esta debe traducirse completamente, mostrando los morfemas.
 
  **Historia usuario:** 
- Como **usuario**, **quiero** poder traducir las palabras de acuerdo a los morfemas y el significado etimológico de todas las posturas, generando una traducción general de la oración considerando cada parte que la componen  
+  Como **usuario**, quiero poder introducir una oración en sánscrito y obtener una traducción completa que muestre los morfemas, para entender mejor la estructura y el significado de la oración.
  **Criterio de aceptación:** 
- 1. El **usuario** puede insertar distintas palabras de manera individual 
- 2. La traducción se mostrará como la unión de todos los morfemas, dando así una traducción general  |
+ 1. El **usuario** puede insertar una oración completa en sánscrito. 
+ 2. La traducción que toma como base el sáscrito se mostrará como una traducción completa de la oración, mostrando los morfemas que la componen. 
 
 ## Comments
 
