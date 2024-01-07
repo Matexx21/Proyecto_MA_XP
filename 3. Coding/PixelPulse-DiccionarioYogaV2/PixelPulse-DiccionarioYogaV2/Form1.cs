@@ -105,7 +105,7 @@ namespace PixelPulse_DiccionarioYogaV2
                             $"Palabra no encontrada.", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            /*ReproducirVideo(postura.GetVideo());*/
+            ReproducirVideo(postura.GetVideo());
             BusquedaTextBox.Text = string.Empty;
         }
 
